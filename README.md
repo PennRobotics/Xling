@@ -2,6 +2,9 @@
 
 ![Image](Xling_v3.2.png)
 
+https://gitlab.com/PennRobotics/Xling
+
+
 This is a little tamagotchi-like toy I've created for my wife. I used to think
 that this is how a modern Tamagotchi could look like initially. However, it can
 also be used as a battery-powered DIY platform to experiment with FreeRTOS and
